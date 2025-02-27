@@ -23,6 +23,4 @@ export class postgresConfigService implements  TypeOrmOptionsFactory{
             synchronize: true,
         }
     } 
-
-     
 }
